@@ -8,12 +8,15 @@ Gradient Boosting Classifier is an ensemble machine learning algorithm used for 
 2. Model Training: Implementing Gradient Boosting Classifier using scikit-learn.
 3. Model Evaluation: Assessing performance using accuracy, precision, recall, and confusion matrix.
 
-# Installation and Usage
-1. Clone this repository:
-git clone https://github.com/azkalltlhn/Gradient_Boosting_Classifier.git
+## Installation and Usage
 
-2. Install the required dependencies:
-pip install -r requirements.txt
+1. **Clone this repository:**
+   ```bash
+   git clone https://github.com/azkalltlhn/Gradient_Boosting_Classifier.git
+
+2. **Install the required dependencies::**
+   ```bash
+   pip install numpy pandas scikit-learn matplotlib seaborn
 
 Run the notebook in Google Colab or Jupyter Notebook for further exploration.
 
